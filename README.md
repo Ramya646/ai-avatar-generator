@@ -15,7 +15,7 @@ The system uses deep learning models to convert text into speech and synchronize
 
 * Frontend: React (Vite)
 * Backend: Flask
-* Database: MongoDB
+* Database: PostgreSQL
 * Text-to-Speech: OpenVoice
 * Lip Sync: Wave2Lip
 
@@ -75,7 +75,7 @@ Model files are not included due to size limitations.
 Download them from:
 
 * Wave2Lip: https://github.com/Rudrabha/Wav2Lip
-* OpenVoice: (add your link if needed)
+* OpenVoice: https://github.com/myshell-ai/OpenVoice
 
 Place them in:
 
